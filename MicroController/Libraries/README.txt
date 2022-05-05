@@ -1,0 +1,2 @@
+In this folder are the libraries required to run the Arduino code.
+> The one in the "Sensor" folder is not useful, it is just a reference because it is the library provided with the Seeed sensor used in this assembly.
